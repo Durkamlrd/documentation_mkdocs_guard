@@ -18,4 +18,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Using Emojis
 
-I like to drink :juice: after I played :soccer:
+I like to drink :tumbler_glass:: after I played :soccer:
